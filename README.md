@@ -28,7 +28,7 @@ My strategy to solve this challenge was:
 ## `Step 03. Feature Engineering`
 Creation of variables (features) relevant to solving the problem
 
-## `Step 04. Exploratory Data Analysis
+## `Step 04. Exploratory Data Analysis`
 * Isolated analysis of each feature and its relationship with the others.
 * Exploration of the data in order to obtain an intuition of their distribution in the data space (embedding exploration).
 
